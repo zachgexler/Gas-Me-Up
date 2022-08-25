@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- standard boilerplate -->
+<!-- link to Jquery from CDN and boostrap -->
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- meta (data pulled from the web) -->
+    <!-- linking to js and css within html -->
+    <!-- all this goes into the head because it lets internet read (metadata) about the document, like its title, scripts, and style sheets -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -16,14 +22,16 @@
 
 <body>
 
+    <!-- the area of JS that controls the document -->
     <div class="text-center">
-
+        <!-- boostrap to create headline "jumbo tron" and can add titles into the div -->
         <div class="jumbotron text-center top-title">
             <h1>World Gas Prices</h1>
             <h2>Humanity's Life Source</h2>
         </div>
 
         <!-- <div class="bg-container"> -->
+        <!-- decided to not use a div because I was nervous it would create its own padding/spacing, but still wanted the titles -->
         <h1>Gas Me Up</h1>
         <h3>Liquid Gold</h3>
         <!-- </div> -->
@@ -31,14 +39,15 @@
         <form>
             <!-- <label> Price of Gas -->
             <input id="country-inpt" type="text" placeholder="" />
-            <!-- </label> -->
             <input type="button" id="submit" value="Gas Price" onclick="getGas()">
             <br>
             <!-- <input type="button" value="Save Humanity Become a Titan"
-                onclick="location.href = 'https://en.wikipedia.org/wiki/Titan_(moon)'" /> -->
+                onclick="location.href = 'https://en.wikipedia.org/wiki/Titan_(moon)'" /> ...moved to the below div to separate from main site purpose-->
         </form>
-
-        <div class="text-center">
+        <!-- The <form> tag is used to create an HTML form for user input. The <form> element can contain one or more of the following form elements: <input> <textarea> <button> -->
+       <!-- added onclick button to send to Titan moon wikipedia because of cohort name and rumored viability of Titan -->
+       
+            <div class="text-center">
             <h3>Country</h3>
             <p id="country"></p>
             <h3>Gas Price in Local Currency</h3>
@@ -46,10 +55,11 @@
             <h3>Diesel Price in Local Currency</h3>
             <p id="diesel-price"></p>
             <br>
+            <!-- wanted to add another attribute to add to the pages value -->
             <input type="button" value="Save Humanity Become a Titan"
                 onclick="location.href = 'https://en.wikipedia.org/wiki/Titan_(moon)'" />
         </div>
-
+<!-- just found the syntax and markup? for a caraousel and added my own images and wanted it at the bottom so worked top to bottom I could not have mentally created this alone with w3 -->
         <div class="">
             <h2>Find A New Home</h2>
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
