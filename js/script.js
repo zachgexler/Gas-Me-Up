@@ -66,9 +66,9 @@ $(document).ready(function () {
         //   $("#gas-price").fadeIn("xslow");
         //   $("#diesel-price").fadeIn("xslow");
 
-        $("#country").fadeOut(7000);
-        $("#gas-price").fadeOut(7000);
-        $("#diesel-price").fadeOut(7000);
+        // $("#country").fadeOut(7000);
+        // $("#gas-price").fadeOut(7000);
+        // $("#diesel-price").fadeOut(7000);
 
     });
 });
