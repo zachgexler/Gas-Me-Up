@@ -24,12 +24,10 @@ Gas Me Up is a web app used to pull gasoline and diesel prices from specific cou
 ## Contributing
 Project 1 GA Gas Me Up Link Below
 
-[click here for my mind blowing page] (https://github.com/zachgexler/Gas-Me-Up.git)
+[click here for my mind blowing page] (https://zachgexler.github.io/Gas-Me-Up/)
 
 ## Unsolved Problems
-A major problem I had was not understadning the value/point/aspect of using the terminal and git add/commit/push, which hindered my timeline. Problem is resolved now, but was a large error during the project. I tried to find/use other gasloine APIs for pulling more current prices and more information but I couldn't get the keys to work. I didn't know how/take the time to better understand how I could've encapsulated the returned data without disrupting the bg image or any functionalities.
+ I tried to find/use other gasloine APIs for pulling more current prices and more information but I couldn't get them to work. I didn't know how/take the time to better understand how I could've encapsulated the returned data without disrupting the bg image or any functionalities. I had a very hard time with scaling the backgrounds. Everything (rightfully) is responsive, but I would've preferred to make the web version match the mobiel version more closley.
 
 ## Favorite
 Understanding fundamentals enough to create a working product, and I love the visuals I was able to add.
-
-![Alt text](readme/assets/proj1A.jpg "Screenshot)

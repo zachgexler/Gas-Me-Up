@@ -58,6 +58,8 @@ $(document).ready(function () {
         let gasprice = document.getElementById("gas-price");
         let dieselPrice = document.getElementById("diesel-price");
 
+// used the response titles from the API as they were SVGFEDropShadowElement, had console log to show it was pulling correctly
+
         $.ajax(settings).done(function (response) {
             console.log(response["GAS PRICE:"]);
             gasprice.innerHTML = response["GAS PRICE:"];
