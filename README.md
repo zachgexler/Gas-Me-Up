@@ -22,9 +22,14 @@ Gas Me Up is a web app used to pull gasoline and diesel prices from specific cou
 *Expand on the connection between the moon Titan and earth's oil reserves.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Project 1 GA Gas Me Up Link Below
 
-Please make sure to update tests as appropriate.
+[click here for my mind blowing page] (https://github.com/zachgexler/Gas-Me-Up.git)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## Unsolved Problems
+A major problem I had was not understadning the value/point/aspect of using the terminal and git add/commit/push, which hindered my timeline. Problem is resolved now, but was a large error during the project. I tried to find/use other gasloine APIs for pulling more current prices and more information but I couldn't get the keys to work. I didn't know how/take the time to better understand how I could've encapsulated the returned data without disrupting the bg image or any functionalities.
+
+## Favorite
+Understanding fundamentals enough to create a working product, and I love the visuals I was able to add.
+
+![Alt text](readme/assets/proj1A.jpg "Screenshot)
