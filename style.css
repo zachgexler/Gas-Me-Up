@@ -10,7 +10,7 @@
       color: white;
 
   }
-// originally had <div> and I believe it was styling everything, and so i tried to breakout each element so I could try to individualize. all of the background imaging and coding and syntax was trial and error, mostly through letting VS Code guide me with the prompts
+
   .top-title {
       background-image: url("Assets/header-bg.jpg");
       background-size: cover;
