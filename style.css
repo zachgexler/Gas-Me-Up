@@ -1,0 +1,52 @@
+  body {
+      background-image: url("Assets/exploding.gif");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      background-position-x: center;
+      height: 100vh;
+      padding: 0;
+      margin: 0;
+      color: white;
+
+  }
+
+  .top-title {
+      background-image: url("Assets/header-bg.jpg");
+      background-size: cover;
+      background-position: 100%;
+      color: white;
+  }
+
+  h1 {
+      color: white !important;
+  }
+
+  div {
+      font-family: fantasy;
+  }
+
+  h2 {
+      color: white !important;
+  }
+
+  #country {
+
+      color: white;
+      font-size: 30px;
+  }
+
+  #gas-price {
+      color: white;
+      font-size: 30px;
+  }
+
+  #diesel-price {
+      color: white;
+      font-size: 30px;
+  }
+
+  h3 {
+
+      color: white !important;
+  }
