@@ -36,4 +36,8 @@ I couldn't get the screenshots of the web app in progress to stick to my readMe,
 
 ## Favorite
 
-Understanding fundamentals enough to create a working product, and I love the visuals I was able to add.
+Understanding fundamentals enough to create a working product, and I love the visuals I was able to add.![proj1A](https://user-images.githubusercontent.com/110911839/186786191-fb0567e3-f8fe-41ee-b92e-cee0718d6361.jpg)
+![proj1B](https://user-images.githubusercontent.com/110911839/186786194-9a267b26-9cb5-4877-9cb6-cc6c51cbd2ec.jpg)
+![proj1C](https://user-images.githubusercontent.com/110911839/186786198-8e7fe590-a9a5-42c4-8602-f5bdbe49849f.jpg)
+![proj1D](https://user-images.githubusercontent.com/110911839/186786199-ce5ed950-cf55-4f2f-9c9a-948d3c3667b7.jpg)
+![proj1E](https://user-images.githubusercontent.com/110911839/186786200-54d2b016-9166-4850-8c2e-a39d339e8899.jpg)
